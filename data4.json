@@ -153,5 +153,12 @@
 {  "Date" : "", "Place" : "Portugal" },
 {  "Date" : "", "Place" : "Saudi Arabia" },
 {  "Date" : "", "Place" : "Senegal" },
-{  "Date" : "", "Place" : "Tunisia" }
+{  "Date" : "", "Place" : "Tunisia" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "2020-03-04", "Place" : "Argentina" },
+{  "Date" : "", "Place" : "Chile" },
+{  "Date" : "", "Place" : "Poland" },
+{  "Date" : "", "Place" : "Ukraine" }
 ]
