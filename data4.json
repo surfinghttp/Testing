@@ -1,5 +1,5 @@
 [
-{  "Date" : "2019-12-31", "Place" : "China" },
+{  "Date" : "2019-12-31", "Place" : "Mainland, China" },
 {  "Date" : "", "Place" : "" },
 {  "Date" : "", "Place" : "" },
 {  "Date" : "", "Place" : "" },
@@ -160,5 +160,16 @@
 {  "Date" : "2020-03-04", "Place" : "Argentina" },
 {  "Date" : "", "Place" : "Chile" },
 {  "Date" : "", "Place" : "Poland" },
-{  "Date" : "", "Place" : "Ukraine" }
+{  "Date" : "", "Place" : "Ukraine" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "2020-03-05", "Place" : "Bosnia and Herzegovina" },
+{  "Date" : "", "Place" : "Gibraltar" },
+{  "Date" : "", "Place" : "Hungary" },
+{  "Date" : "", "Place" : "Liechtenstein" },
+{  "Date" : "", "Place" : "occupied Palestinian territory" },
+{  "Date" : "", "Place" : "Saint Barthélemy" },
+{  "Date" : "", "Place" : "Saint Martin" },
+{  "Date" : "", "Place" : "Slovenia" }
 ]
