@@ -171,5 +171,13 @@
 {  "Date" : "", "Place" : "occupied Palestinian territory" },
 {  "Date" : "", "Place" : "Saint Barthélemy" },
 {  "Date" : "", "Place" : "Saint Martin" },
-{  "Date" : "", "Place" : "Slovenia" }
+{  "Date" : "", "Place" : "Slovenia" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "2020-03-06", "Place" : "Bhutan" },
+{  "Date" : "", "Place" : "Cameroon" },
+{  "Date" : "", "Place" : "Czech Republic" },
+{  "Date" : "", "Place" : "Serbia" },
+{  "Date" : "", "Place" : "South Africa" }
 ]
