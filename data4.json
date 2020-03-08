@@ -169,7 +169,7 @@
 {  "Date" : "", "Place" : "Hungary" },
 {  "Date" : "", "Place" : "Liechtenstein" },
 {  "Date" : "", "Place" : "occupied Palestinian territory" },
-{  "Date" : "", "Place" : "Saint Barthélemy" },
+{  "Date" : "", "Place" : "Saint Barthelemy" },
 {  "Date" : "", "Place" : "Saint Martin" },
 {  "Date" : "", "Place" : "Slovenia" },
 {  "Date" : "", "Place" : "" },
@@ -179,5 +179,13 @@
 {  "Date" : "", "Place" : "Cameroon" },
 {  "Date" : "", "Place" : "Czech Republic" },
 {  "Date" : "", "Place" : "Serbia" },
-{  "Date" : "", "Place" : "South Africa" }
+{  "Date" : "", "Place" : "South Africa" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "2020-03-07", "Place" : "Colombia" },
+{  "Date" : "", "Place" : "Holy See" },
+{  "Date" : "", "Place" : "Peru" },
+{  "Date" : "", "Place" : "Slovakia" },
+{  "Date" : "", "Place" : "Togo" }
 ]
