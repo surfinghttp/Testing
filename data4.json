@@ -212,5 +212,12 @@
 {  "Date" : "", "Place" : "Cyprus" },
 {  "Date" : "", "Place" : "Guernsey" },
 {  "Date" : "", "Place" : "Mongolia" },
-{  "Date" : "", "Place" : "Panama" }
+{  "Date" : "", "Place" : "Panama" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "2020-03-11", "Place" : "Bolivia (Plurinational State of)" },
+{  "Date" : "", "Place" : "Burkina Faso" },
+{  "Date" : "", "Place" : "Democratic Republic of the Congo" },
+{  "Date" : "", "Place" : "Jamaica" }
 ]
