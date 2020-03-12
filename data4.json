@@ -219,5 +219,12 @@
 {  "Date" : "2020-03-11", "Place" : "Bolivia (Plurinational State of)" },
 {  "Date" : "", "Place" : "Burkina Faso" },
 {  "Date" : "", "Place" : "Democratic Republic of the Congo" },
-{  "Date" : "", "Place" : "Jamaica" }
+{  "Date" : "", "Place" : "Jamaica" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "2020-03-12", "Place" : "Côte d’Ivoire" },
+{  "Date" : "", "Place" : "French Polynesia" },
+{  "Date" : "", "Place" : "Honduras" },
+{  "Date" : "", "Place" : "Turkey" }
 ]
