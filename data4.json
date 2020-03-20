@@ -247,6 +247,7 @@
 {  "Date" : "", "Place" : "Puerto Rico" },
 {  "Date" : "", "Place" : "Sudan" },
 {  "Date" : "", "Place" : "Trinidad and Tobago" },
+{  "Date" : "", "Place" : "Venezuela (Bolivarian Republic of)" },
 {  "Date" : "", "Place" : "" },
 {  "Date" : "", "Place" : "" },
 {  "Date" : "", "Place" : "" },
@@ -284,5 +285,15 @@
 {  "Date" : "", "Place" : "" },
 {  "Date" : "", "Place" : "" },
 {  "Date" : "2020-03-18", "Place" : "Curacao" },
-{  "Date" : "", "Place" : "Montenegro" }
+{  "Date" : "", "Place" : "Montenegro" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "2020-03-19", "Place" : "Barbados" },
+{  "Date" : "", "Place" : "Djibouti" },
+{  "Date" : "", "Place" : "Gambia" },
+{  "Date" : "", "Place" : "Greenland" },
+{  "Date" : "", "Place" : "Kyrgyzstan" },
+{  "Date" : "", "Place" : "Mauritius" },
+{  "Date" : "", "Place" : "Montserrat" }
 ]
