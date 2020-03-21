@@ -20,6 +20,7 @@
 {  "Date" : "", "Place" : "" },
 {  "Date" : "", "Place" : "" },
 {  "Date" : "2020-01-24", "Place" : "Singapore" },
+{  "Date" : "", "Place" : "Viet Nam" },
 {  "Date" : "", "Place" : "" },
 {  "Date" : "", "Place" : "" },
 {  "Date" : "", "Place" : "" },
@@ -306,5 +307,13 @@
 {  "Date" : "", "Place" : "New Caledonia" },
 {  "Date" : "", "Place" : "Nicaragua" },
 {  "Date" : "", "Place" : "Niger" },
-{  "Date" : "", "Place" : "Sint Maarten" }
+{  "Date" : "", "Place" : "Sint Maarten" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "2020-03-21", "Place" : "Cabo Verde" },
+{  "Date" : "", "Place" : "Haiti" },
+{  "Date" : "", "Place" : "Isle of Man" },
+{  "Date" : "", "Place" : "Papua New Guinea" },
+{  "Date" : "", "Place" : "Timor-Leste" }
 ]
