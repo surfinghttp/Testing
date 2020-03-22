@@ -315,5 +315,12 @@
 {  "Date" : "", "Place" : "Haiti" },
 {  "Date" : "", "Place" : "Isle of Man" },
 {  "Date" : "", "Place" : "Papua New Guinea" },
-{  "Date" : "", "Place" : "Timor-Leste" }
+{  "Date" : "", "Place" : "Timor-Leste" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "2020-03-22", "Place" : "Angola" },
+{  "Date" : "", "Place" : "Eritrea" },
+{  "Date" : "", "Place" : "Madagascar" },
+{  "Date" : "", "Place" : "Uganda" }
 ]
