@@ -285,8 +285,7 @@
 {  "Date" : "", "Place" : "" },
 {  "Date" : "", "Place" : "" },
 {  "Date" : "", "Place" : "" },
-{  "Date" : "2020-03-18", "Place" : "Curacao" },
-{  "Date" : "", "Place" : "Montenegro" },
+{  "Date" : "2020-03-18", "Place" : "Montenegro" },
 {  "Date" : "", "Place" : "" },
 {  "Date" : "", "Place" : "" },
 {  "Date" : "", "Place" : "" },
@@ -341,5 +340,11 @@
 {  "Date" : "", "Place" : "" },
 {  "Date" : "", "Place" : "" },
 {  "Date" : "2020-03-25", "Place" : "Lao People's Democratic Republic" },
-{  "Date" : "", "Place" : "Libya" }
+{  "Date" : "", "Place" : "Libya" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "", "Place" : "" },
+{  "Date" : "2020-03-26", "Place" : "Guinea-Bissau" },
+{  "Date" : "", "Place" : "Mali" },
+{  "Date" : "", "Place" : "Saint Kitts and Nevis" }
 ]
