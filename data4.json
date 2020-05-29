@@ -69,7 +69,7 @@
 {  "Date" : "", "Place" : "" },
 {  "Date" : "", "Place" : "" },
 {  "Date" : "", "Place" : "" },
-{  "Date" : "2020-02-06", "Place" : "International conveyance (Diamond Princess)" },
+{  "Date" : "2020-02-06", "Place" : "International conveyance" },
 {  "Date" : "", "Place" : "" },
 {  "Date" : "", "Place" : "" },
 {  "Date" : "", "Place" : "" },
@@ -398,9 +398,5 @@
 {  "Date" : "", "Place" : "" },
 {  "Date" : "", "Place" : "" },
 {  "Date" : "", "Place" : "" },
-{  "Date" : "2020-05-14", "Place" : "Lesotho" },
-{  "Date" : "", "Place" : "" },
-{  "Date" : "", "Place" : "" },
-{  "Date" : "", "Place" : "" },
-{  "Date" : "2020-05-26", "Place" : "International commercial vessel" }
+{  "Date" : "2020-05-14", "Place" : "Lesotho" }
 ]
